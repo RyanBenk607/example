@@ -14,6 +14,7 @@ public class bee extends Actor
      */
     public void act()
     {
+         //ultimate sigma was here
         move(5);
         if(isAtEdge()){
         turn(45);
